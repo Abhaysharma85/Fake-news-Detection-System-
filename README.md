@@ -26,5 +26,11 @@ A machine learning-based system to automatically classify news articles as "Real
 https://github.com/Abhaysharma85/Fake-news-Detection-System-.git
 Fake-news-Detection-System
 
-## Datase[IMPORTANT Download Dataset and the use THE Project]
+
+<br>
+
+## Dataset
+
+[IMPORTANT Download Dataset and the use THE Project]
+
 Link:-https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset/data
