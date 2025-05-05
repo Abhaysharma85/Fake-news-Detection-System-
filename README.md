@@ -24,10 +24,10 @@ A machine learning-based system to automatically classify news articles as "Real
 1. Clone the repository:
 ```bash
 https://github.com/Abhaysharma85/Fake-news-Detection-System-.git
-Fake-news-Detection-System
+cd Fake-news-Detection-System
 
 
-<br>
+
 
 ## Dataset
 
